@@ -1,0 +1,96 @@
+{
+    "professors": [
+      {
+        "name": "Dr. Sandeep Chaurasia",
+        "role": "Professor & Director",
+        "image": "./images/team/sandeep.jpg",
+        "email": "sandeep.chaurasia@jaipur.manipal.edu",
+        "interests": "Algorithms,Artificial Intelligence,Natural Processing Language and  Deep Learning",
+        "links": {
+          "scholar": "https://scholar.google.co.in/citations?user=nk0tQNwAAAAJ&hl=en",
+          "linkedin": "https://www.linkedin.com/in/sandeep-chaurasia-0457568a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTYHOwV1VSeW%2Fr54mcMkhVw%3D%3D",
+          "muj": "https://jaipur.manipal.edu/foe/director-scse.php",
+          "email": "sandeep.chaurasia@jaipur.manipal.edu"
+        }
+      },
+      {
+        "name": "Dr. Amit Kumar Gupta",
+        "role": "Associate Professor",
+        "image": "./images/team/amit.jpg",
+        "email": "amit.gupta@jaipur.manipal.edu",
+        "interests": "Artificial Intelligence, Machine Learning, Deep Learning",
+        "links": {
+          "scholar": "https://scholar.google.com/citations?user=GtBl274AAAAJ&hl=en",
+          "linkedin": "https://www.linkedin.com/in/dr-amit-kumar-gupta-6b170891?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLtc2KoVkQWe0Ot%2B6Wl9nYw%3D%3D",
+          "email": "amit.gupta@jaipur.manipal.edu"
+        }
+      }
+    ],
+    "teamLead": [
+      {
+        "name": "Farhan Sheth",
+        "role": "Team Lead",
+        "image": "./images/team/Farhan Sheth.jpg",
+        "email": "work.fags@gmail.com",
+        "interests": "Deep Learning, Computer Vision, Machine Learning, Natural Language Processing,Web Development",
+        "links": {
+          "scholar": "https://scholar.google.com/citations?user=ZeKCtQQAAAAJ&hl=en",
+          "linkedin": "https://www.linkedin.com/in/farhan-sheth?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bj4KxddJvSeS1KNzjTco4ew%3D%3D",
+          "github": "https://github.com/Phantom-fs",
+          "email": "work.fags@gmail.com"
+        }
+      }
+    ],
+    "seniorLead": [
+      {
+        "name": "Dheeraj Kumar",
+        "role": "Senior Lead",
+        "image": "./images/team/Dheeraj.jpg",
+        "email": "skumardheeraj.21@gmail.com",
+        "interests": "Machine Learning, Deep Learning, Web Development",
+        "links": {
+          "linkedin": "https://www.linkedin.com/in/dheeraj-kumar-bb1184262?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B51VnHPXDQ2S6Aiz1MyWnVw%3D%3D",
+          "github": "https://github.com/Dheeraj21K",
+          "email": "skumardheeraj.21@gmail.com"
+        }
+      },
+      {
+        "name": "Hammad Sheikh",
+        "role": "Senior Lead",
+        "image": "./images/team/Hammad.jpg",
+        "email": "hammad.shaikh1105@gmail.com",
+        "interests": "Machine Learning,Deep Learning, Computer Vision",
+        "links": {
+          "linkedin": "https://www.linkedin.com/in/hammad-shaikh1105?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FwElWNg9RbOakjCsQAf4%2FA%3D%3D",
+          "github": "https://github.com/Hammad-1105",
+          "email": "hammad.shaikh1105@gmail.com"
+        }
+      }
+    ],
+    "juniorLead": [
+      {
+        "name": "Aditya Jha",
+        "role": "Junior Lead",
+        "image": "./images/team/Aditya.jpg",
+        "email": "2005akjha@gmail.com",
+        "interests": "Machine Learning,Deep Learning, Computer Vision",
+        "links": {
+          "linkedin": "https://www.linkedin.com/in/aditya-jha-654800280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+          "github": "https://github.com/adityajha2005",
+          "email": "2005akjha@gmail.com"
+        }
+      },
+      {
+        "name": "Shresth Shroff",
+        "role": "Junior Lead",
+        "image": "./images/team/Shresth.jpg",
+        "email": "shresthshroffx7906@gmail.com",
+        "interests": "Deep Learning, Computer Vision,Blockchain Systems,Mechas",
+        "links": {
+          "linkedin": "http://linkedin.com/in/shresth-shroff-8188b229b/",
+          "github": "https://github.com/Shroffx",
+          "email": "shresthshroffx7906@gmail.com"
+        }
+      }
+    ]
+  }

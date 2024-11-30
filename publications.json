@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Publication Title 1",
+        "year": 2024,
+        "authors": ["Author A", "Author B"],
+        "abstract": "Brief abstract of the publication.",
+        "link": "https://example.com/publication1"
+    },
+    {
+        "title": "Publication Title 2",
+        "year": 2023,
+        "authors": ["Author C", "Author D"],
+        "abstract": "Brief abstract of the publication.",
+        "link": "https://example.com/publication2"
+    }
+]

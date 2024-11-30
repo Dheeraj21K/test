@@ -1,0 +1,77 @@
+{
+  "projects": [
+      {
+          "id": "project-1",
+          "name": "AI-Powered Healthcare Diagnostics",
+          "shortDescription": "Revolutionizing medical diagnostics through advanced machine learning algorithms.",
+          "fullDescription": "Our AI-Powered Healthcare Diagnostics project aims to transform medical imaging and diagnostic processes by developing cutting-edge machine learning models that can accurately detect and predict various medical conditions from radiological images.\n\nKey objectives include:\n- Developing robust deep learning models for early disease detection\n- Creating interpretable AI systems for medical professionals\n- Reducing diagnostic errors and improving patient outcomes",
+          "coverImage": "../images/OCEAN.png",
+          "additionalImages": [
+              "./images/healthcare-ai-model.jpg",
+              "./images/medical-scan-analysis.jpg"
+          ],
+          "researchers": [
+              "Dr. Ananya Sharma",
+              "Prof. Rajesh Kumar",
+              "Mohit Gupta"
+          ],
+          "technologies": [
+              "TensorFlow",
+              "PyTorch",
+              "OpenCV",
+              "Docker"
+          ],
+          "externalLinks": [
+              {
+                  "name": "Project Dataset",
+                  "url": "#"
+              },
+              {
+                  "name": "Research Paper",
+                  "url": "#"
+              },
+              {
+                  "name": "Model Repository",
+                  "url": "https://github.com/AI4A-lab/healthcare-ai"
+              }
+          ]
+      },
+      {
+          "id": "project-2",
+          "name": "Climate Change Prediction Model",
+          "shortDescription": "Machine learning models for predicting and analyzing climate change impacts.",
+          "fullDescription": "Our Climate Change Prediction Model leverages advanced machine learning techniques to analyze complex environmental data and predict potential climate change scenarios.\n\nKey research areas:\n- Predictive modeling of temperature and precipitation trends\n- Carbon emission trajectory analysis\n- Environmental impact assessment using AI",
+          "coverImage": "./images/climate-change-project.jpg",
+          "additionalImages": [
+              "./images/climate-data-visualization.jpg",
+              "./images/machine-learning-climate.jpg"
+          ],
+          "researchers": [
+              "Dr. Priya Malhotra",
+              "Abhishek Singh",
+              "Neha Patel"
+          ],
+          "technologies": [
+              "Python",
+              "Scikit-learn",
+              "Pandas",
+              "Matplotlib",
+              "GeoPandas"
+          ],
+          "externalLinks": [
+              {
+                  "name": "Climate Data Repository",
+                  "url": "#"
+              },
+              {
+                  "name": "Research Findings",
+                  "url": "#"
+              },
+              {
+                  "name": "Project Visualization",
+                  "url": "https://github.com/AI4A-lab/climate-prediction"
+              }
+          ]
+      }
+  ]
+}
